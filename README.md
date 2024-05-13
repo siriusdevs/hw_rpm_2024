@@ -5,7 +5,7 @@
 |    danilov   |   |    |    |    |    |    |    |
 |  demyanenko  |   |  + |  + |    |    |    |    |
 |   drobyazko  |   |    |    |    |    |    |    |
-|   druzhinin  |   |  + |    |    |    |    |    |
+|   druzhinin  |   |  + |  + |    |    |    |    |
 |   dyatlova   |   |  + |  + |    |    |    |    |
 |    eremin    |   |  + |  + |    |    |    |    |
 |   evstifeev  |   |    |    |    |    |    |    |
