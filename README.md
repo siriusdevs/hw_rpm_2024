@@ -26,7 +26,7 @@
 |   mashtaler  |   |    |    |    |    |    |    |
 |   nikiforov  |   |  + |  + |    |    |    |    |
 |    noskov    |   |    |    |    |    |    |    |
-|     nudga    |   |  + |  + |    |    |    |    |
+|     nudga    |   |  + |  + |  + |    |    |    |
 |    osipov    |   |  + |    |    |    |    |    |
 |  otroshenko  |   |    |    |    |    |    |    |
 |    ozornin   |   |  + |    |    |    |    |    |
