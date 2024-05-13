@@ -47,6 +47,6 @@
 |   vasilenko  |   |  + |  + |    |    |    |    |
 |  vershinina  |   |    |    |    |    |    |    |
 |    zagora    |   |  + |  + |    |    |    |    |
-|    zaitsev   |   |    |    |    |    |    |    |
+|    zaitsev   |   |  + |  + |    |    |    |    |
 |   zorina_a   |   |  + |  + |    |    |    |    |
 |   zorina_e   |   |  + |    |    |    |    |    |
