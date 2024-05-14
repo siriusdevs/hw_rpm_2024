@@ -29,15 +29,15 @@
 | osipov     |    | 5         |         | +  |    |    |    |    |    |
 | otroshenko |    | 5         |         |    |    |    |    |    |    |
 | ozornin    |    | 5         |         | +  |    |    |    |    |    |
-| roganov    |    | 5         |         | +  |    |    |    |    |    |
+| roganov    |    | 5         |  4.27   | +  |    |    |    |    |    |
 | romodanov  | +  | 5         |  5      | +  | +  | +  |    |    |    |
 | sannikov   |    |           |         |    |    |    |    |    |    |
-| tarasov    |    | 5         | 5       | +  | +  |    |    |    |    |
+| tarasov    |    | 5         |  5      | +  | +  |    |    |    |    |
 | tatarnikov |    | 4.5       |         |    |    |    |    |    |    |
 | telegin    |    | 5         |         | +  | +  |    |    |    |    |
 | tereshin   |    | 5         |         |    |    |    |    |    |    |
 | turapov    |    | 5         |         |    |    |    |    |    |    |
-| tyapkova   |    | 5         |         | +  | +  |    |    |    |    |
+| tyapkova   |    | 5         |  4.2    | +  | +  |    |    |    |    |
 |   tyurin   |    | 5         |         |    |    |    |    |    |    |
 |  vasilenko |    | 5         |         |    |    |    |    |    |    |
 | vershinina |    | 4         |         |    |    |    |    |    |    |
