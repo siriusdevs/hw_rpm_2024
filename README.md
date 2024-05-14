@@ -9,7 +9,7 @@
 | dyatlova   |    | 4         |         | +  | +  |    |    |    |    |
 | eremin     |    | 5         |         | +  | +  |    |    |    |    |
 | grigoryan  |    | 5         |         | +  | +  | +  |    |    |    |
-| inozemtsev |    |           |  5      | +  |    |    |    |    |    |
+| inozemtsev |    |           |  5      | +  | +  | +  |    |    |    |
 | isaeva     |    | 3         |         |    |    |    |    |    |    |
 | ivanov_i   |    |           |         |    |    |    |    |    |    |
 | karateev   |    |           |  3      |    |    |    |    |    |    |
