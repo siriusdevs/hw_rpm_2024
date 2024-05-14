@@ -23,7 +23,7 @@
 | litvinov   |    | 5         |  5      | +  |    |    |    |    |    |
 | malanin    |    | 4         |         |    |    |    |    |    |    |
 | mashtaler  |    | 4         |         |    |    |    |    |    |    |
-| nikiforov  |    | 3         |         | +  | +  |    |    |    |    |
+| nikiforov  |    | 3         |  3      | +  | +  |    |    |    |    |
 | noskov     |    | 4         |         |    |    |    |    |    |    |
 | nudga      |    | 4.5       |         | +  | +  | +  |    |    |    |
 | osipov     |    | 5         |         | +  |    |    |    |    |    |
