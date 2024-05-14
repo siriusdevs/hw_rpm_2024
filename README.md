@@ -12,15 +12,15 @@
 | inozemtsev |    |           |         | +  |    |    |    |    |    |
 | isaeva     |    | 3         |         |    |    |    |    |    |    |
 | ivanov_i   |    |           |         |    |    |    |    |    |    |
-| karateev   |    |           |         |    |    |    |    |    |    |
+| karateev   |    |           |  3      |    |    |    |    |    |    |
 | kolkareva  |    | 3         |         |    |    |    |    |    |    |
 | komarov    |    |           |         |    |    |    |    |    |    |
-| korenyakin |    | 5         | 5       | +  | +  | +  |    |    |    |
+| korenyakin |    | 5         |  5      | +  | +  | +  |    |    |    |
 | krdyan     |    | 5         |         | +  | +  |    |    |    |    |
 | kristev    |    | 4         |         |    |    |    |    |    |    |
 | krivenko   |    | 5         |         |    |    |    |    |    |    |
 | kuznetsova |    | 3         |         |    |    |    |    |    |    |
-| litvinov   |    | 5         |   5     | +  |    |    |    |    |    |
+| litvinov   |    | 5         |  5      | +  |    |    |    |    |    |
 | malanin    |    | 4         |         |    |    |    |    |    |    |
 | mashtaler  |    | 4         |         |    |    |    |    |    |    |
 | nikiforov  |    | 3         |         | +  | +  |    |    |    |    |
@@ -30,7 +30,7 @@
 | otroshenko |    | 5         |         |    |    |    |    |    |    |
 | ozornin    |    | 5         |         | +  |    |    |    |    |    |
 | roganov    |    | 5         |         | +  |    |    |    |    |    |
-| romodanov  | +  | 5         | 5       | +  | +  | +  |    |    |    |
+| romodanov  | +  | 5         |  5      | +  | +  | +  |    |    |    |
 | sannikov   |    |           |         |    |    |    |    |    |    |
 | tarasov    |    | 5         | 5       | +  | +  |    |    |    |    |
 | tatarnikov |    | 4.5       |         |    |    |    |    |    |    |
