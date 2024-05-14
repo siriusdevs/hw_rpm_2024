@@ -20,7 +20,7 @@
 | kristev    |    | 4         |         |    |    |    |    |    |    |
 | krivenko   |    | 5         |         |    |    |    |    |    |    |
 | kuznetsova |    | 3         |         |    |    |    |    |    |    |
-| litvinov   |    | 5         |         | +  |    |    |    |    |    |
+| litvinov   |    | 5         |   5     | +  |    |    |    |    |    |
 | malanin    |    | 4         |         |    |    |    |    |    |    |
 | mashtaler  |    | 4         |         |    |    |    |    |    |    |
 | nikiforov  |    | 3         |         | +  | +  |    |    |    |    |
