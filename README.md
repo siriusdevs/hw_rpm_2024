@@ -41,7 +41,7 @@
 |   tyurin   |    | 5         |         |    |    |    |    |    |    |
 |  vasilenko |    | 5         |         |    |    |    |    |    |    |
 | vershinina |    | 4         |         |    |    |    |    |    |    |
-|   zagora   |    | 5         |         | +  | +  |    |    |    |    |
+|   zagora   | +  | 5         |         | +  | +  |    |    |    |    |
 |   zaitsev  |    | 5         |         |    |    |    |    |    |    |
 |  zorina_a  |    | 4         |         |    |    |    |    |    |    |
 |  zorina_e  |    | 5         |         |    |    |    |    |    |    |
