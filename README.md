@@ -43,5 +43,5 @@
 | vershinina |    | 4         |         |    |    |    |    |    |    |
 |   zagora   | +  | 5         |         | +  | +  |    |    |    |    |
 |   zaitsev  |    | 5         |  5      |    |    |    |    |    |    |
-|  zorina_a  |    | 4         |         |    |    |    |    |    |    |
-|  zorina_e  |    | 5         |         |    |    |    |    |    |    |
+|  zorina_a  |    | 4         |         | +  | +  | +  |    |    |    |
+|  zorina_e  |    | 5         |         | +  | +  |    |    |    |    |
