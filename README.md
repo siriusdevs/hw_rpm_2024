@@ -18,7 +18,7 @@
 | korenyakin |    |    | 5         |  5      | +  | +  | +  |    |    |    |
 | krdyan     | +  |    | 5         |         | +  | +  |    |    |    |    |
 | kristev    |    |    | 4         |         |    |    |    |    |    |    |
-| krivenko   |    |    | 5         |  3      |    |    |    |    |    |    |
+| krivenko   | +  |    | 5         |  3      |    |    |    |    |    |    |
 | kuznetsova |    |    | 3         |         |    |    |    |    |    |    |
 | litvinov   | ++ |    | 5         |  5      | +  | +  |    |    |    |    |
 | malanin    |    |    | 4         |         |    |    |    |    |    |    |
