@@ -6,7 +6,7 @@
 | demyanenko | +  |    | 5         |  4      | +  | +  | +  |    |    |    |
 | drobyazko  |    |    |           |         |    |    |    |    |    |    |
 | druzhinin  |    |    | 5         |         | +  | +  |    |    |    |    |
-| dyatlova   |    |    | 4         |         | +  | +  |    |    |    |    |
+| dyatlova   |    | +  | 4         |         | +  | +  | +  |    |    |    |
 | eremin     | +  |    | 5         |  4      | +  | +  |    |    |    |    |
 | grigoryan  | +  |    | 5         |  4      | +  | +  | +  |    |    |    |
 | inozemtsev |    |    |           |  5      | +  | +  | +  |    |    |    |
