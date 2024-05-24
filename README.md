@@ -9,7 +9,7 @@
 | dyatlova   |    | +  | 4         |         | +  | +  | +  |    |    |    |
 | eremin     | +  |    | 5         |  4      | +  | +  |    |    |    |    |
 | grigoryan  | +  |    | 5         |  4      | +  | +  | +  |    |    |    |
-| inozemtsev |    |    |           |  5      | +  | +  | +  |    |    |    |
+| inozemtsev |    |    | 5         |  5      | +  | +  | +  |    |    |    |
 | isaeva     | +  |    | 3         |         |    |    |    |    |    |    |
 | ivanov     | +- |    |           |         |    |    |    |    |    |    |
 | karateev   |    |    |           |  3      | +  |    |    |    |    |    |
@@ -40,7 +40,7 @@
 | tyapkova   |    |    | 5         |  4.2    | +  | +  |    |    |    |    |
 |   tyurin   | +  |    | 5         |         | +  | +  | +  |    |    |    |
 |  vasilenko |    |    | 5         |  4      |    |    |    |    |    |    |
-| vershinina | +  |    | 4         |         |    |    |    |    |    |    |
+| vershinina | +  |    | 4         |         | +  |    |    |    |    |    |
 |   zagora   | +  | +  | 5         |         | +  | +  |    |    |    |    |
 |   zaitsev  |    |    | 5         |  5      | +  | +  |    |    |    |    |
 |  zorina_a  | ++ |    | 4         |         | +  | +  | +  |    |    |    |
