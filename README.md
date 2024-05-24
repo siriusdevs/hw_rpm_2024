@@ -37,7 +37,7 @@
 | telegin    | +  |    | 5         |  4.75   | +  | +  |    |    |    |    |
 | tereshin   |    |    | 5         |         |    |    |    |    |    |    |
 | turapov    |    |    | 5         |         |    |    |    |    |    |    |
-| tyapkova   |    |    | 5         |  4.2    | +  | +  |    |    |    |    |
+| tyapkova   |    |    | 5         |  4.2    | +  | +  | +  |    |    |    |
 |   tyurin   | +  |    | 5         |         | +  | +  | +  |    |    |    |
 |  vasilenko |    |    | 5         |  4      |    |    |    |    |    |    |
 | vershinina | +  |    | 4         |         | +  |    |    |    |    |    |
