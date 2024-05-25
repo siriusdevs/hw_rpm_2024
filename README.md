@@ -15,7 +15,7 @@
 | karateev   |    |    |           |  3      | +  |    |    |    |    |    |
 | kolkareva  | +  |    | 3         |         | +  | +  |    |    |    |    |
 | komarov    |    |    |           |         |    |    |    |    |    |    |
-| korenyakin |    |    | 5         |  5      | +  | +  | +  |    |    |    |
+| korenyakin | +  |    | 5         |  5      | +  | +  | +  |    |    |    |
 | krdyan     | +  |    | 5         |  5      | +  | +  |    |    |    |    |
 | kristev    |    |    | 4         |         |    |    |    |    |    |    |
 | krivenko   | +  |    | 5         |  3      | +  | +  | +  |    |    |    |
