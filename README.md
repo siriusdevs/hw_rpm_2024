@@ -22,19 +22,19 @@
 | kuznetsova |    |    | 3         |         |    |    |    |    |    |    |
 | litvinov   | ++ |    | 5         |  5      | +  | +  |    |    |    |    |
 | malanin    |    |    | 4         |         |    |    |    |    |    |    |
-| mashtaler  | +- |    | 4         |         |    |    |    |    |    |    |agora   | +  | +  | 5         |         | +  | +
+| mashtaler  | +- |    | 4         |         |    |    |    |    |    |    |
 | nikiforov  |    |    | 3         |  3      | +  | +  |    |    |    |    |
 | noskov     |    |    | 4         |         |    |    |    |    |    |    |
 | nudga      | +  |    | 4.5       |  4.26   | +  | +  | +  |    |    |    |
 | osipov     |    |    | 5         |  4      | +  |    |    |    |    |    |
 | otroshenko | +  |    | 5         |         | +  | +  | +  |    |    |    |
 | ozornin    |    |    | 5         |         | +  |    |    |    |    |    |
-| roganov    |    |    | 5         |  4.27   | +  | +  |    |    |    |    |
+| roganov    | +  |    | 5         |  4.27   | +  | +  |    |    |    |    |
 | romodanov  | +  | +  | 5         |  5      | +  | +  | +  |    |    |    |
 | sannikov   |    |    |           |         |    |    |    |    |    |    |
 | tarasov    | +- | +  | 5         |  5      | +  | +  | +  |    |    |    |
 | tatarnikov | +- |    | 4.5       |         |    |    |    |    |    |    |
-| telegin    | +  |    | 5         |  4.75   | +  | +  |    |    |    |    |
+| telegin    | +  |    | 5         |  4.75   | +  | +  | +  |    |    |    |
 | tereshin   |    |    | 5         |         |    |    |    |    |    |    |
 | turapov    |    |    | 5         |         |    |    |    |    |    |    |
 | tyapkova   |    |    | 5         |  4.2    | +  | +  | +  |    |    |    |
