@@ -3,7 +3,7 @@
 | argun      | +  |    | 5         |         |    |    |    |    |    |    |
 | arsenovich |    |    | 5         |  4      |    |    |    |    |    |    |
 | danilov    |    |    | 3         |         |    |    |    |    |    |    |
-| demyanenko | +  |    | 5         |  4      | +  | +  | +  |    |    |    |
+| demyanenko | +  |    | 5         |  4      | +  | +  | +  | +  |    |    |
 | drobyazko  |    |    |           |         |    |    |    |    |    |    |
 | druzhinin  |    |    | 5         |         | +  | +  |    |    |    |    |
 | dyatlova   |    | +  | 4         |         | +  | +  | +  |    |    |    |
