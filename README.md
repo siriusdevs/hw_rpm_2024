@@ -33,7 +33,7 @@
 | romodanov  | +  | +  | 5         |  5      | +  | +  | +  |    |    |    |
 | sannikov   |    |    |           |         |    |    |    |    |    |    |
 | tarasov    | +- | +  | 5         |  5      | +  | +  | +  | +  |    |    |
-| tatarnikov | +- |    | 4.5       |         |    |    |    |    |    |    |
+| tatarnikov | +- |    | 4.5       |  4      |    |    |    |    |    |    |
 | telegin    | +  |    | 5         |  4.75   | +  | +  |    |    |    |    |
 | tereshin   |    |    | 5         |         |    |    |    |    |    |    |
 | turapov    |    |    | 5         |         |    |    |    |    |    |    |
