@@ -13,14 +13,14 @@
 | isaeva     | +  |    | 3         |  4      | +  | +  |    |    |    |    |
 | ivanov     | +- |    |           |         |    |    |    |    |    |    |
 | karateev   |    |    |           |  3      | +  |    |    |    |    |    |
-| kolkareva  | +  |    | 3         |         | +  | +  |    |    |    |    |
+| kolkareva  | +  |    | 3         |         | +  | +  | +  |    |    |    |
 | komarov    |    |    |           |         |    |    |    |    |    |    |
 | korenyakin | +  |    | 5         |  5      | +  | +  | +  |    |    |    |
 | krdyan     | +  |    | 5         |  5      | +  | +  |    |    |    |    |
 | kristev    |    |    | 4         |         |    |    |    |    |    |    |
 | krivenko   | +  |    | 5         |  3      | +  | +  | +  | +  |    |    |
 | kuznetsova |    |    | 3         |         |    |    |    |    |    |    |
-| litvinov   | ++ | +  | 5         |  5      | +  | +  |    |    |    |    |
+| litvinov   | ++ | +  | 5         |  5      | +  | +  | +  |    |    |    |
 | malanin    |    |    | 4         |         |    |    |    |    |    |    |
 | mashtaler  | +- |    | 4         |  4      |    |    |    |    |    |    |
 | nikiforov  |    |    | 3         |  3      | +  | +  | +  |    |    |    |
