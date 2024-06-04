@@ -4,7 +4,6 @@
 | arsenovich |    |    | 5         |  4      |    |    |    |    |    |    |
 | danilov    |    |    | 3         |  4      |    |    |    |    |    |    |
 | demyanenko | +  |    | 5         |  4      | +  | +  | +  | +  |    |    |
-| drobyazko  |    |    |           |         |    |    |    |    |    |    |
 | druzhinin  |    |    | 5         |  3.56   | +  | +  |    |    |    |    |
 | dyatlova   |    | +  | 4         |         | +  | +  | +  |    |    |    |
 | eremin     | +  |    | 5         |  4      | +  | +  |    |    |    |    |
@@ -21,7 +20,6 @@
 | krivenko   | +  |    | 5         |  3      | +  | +  | +  | +  |    |    |
 | kuznetsova |    |    | 3         |         |    |    |    |    |    |    |
 | litvinov   | ++ | +  | 5         |  5      | +  | +  | +  | +  |    |    |
-| malanin    |    |    | 4         |         |    |    |    |    |    |    |
 | mashtaler  | +- |    | 4         |  4      |    |    |    |    |    |    |
 | nikiforov  |    |    | 3         |  3      | +  | +  | +  |    |    |    |
 | noskov     |    |    | 4         |  4      |    |    |    |    |    |    |
