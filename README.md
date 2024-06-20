@@ -4,7 +4,7 @@
 | arsenovich |    |    | 5         |  4      |    |    |    |    |    | BP |
 | danilov    |    | 5  | 3         |  4      | +  |    |    |    |    |    |
 | demyanenko | +  | 5  | 5         |  4      | +  | +  | +  | +  |    | +  |
-| druzhinin  |    | 5  | 5         |  5      | +  | +  |    |    |    | +  |
+| druzhinin  |    | 5  | 5         |  4      | +  | +  |    |    |    | +  |
 | dyatlova   |    | 4  | 4         |         | +  | +  | +  |    |    | +  |
 | eremin     | +  | 5  | 5         |  4      | +  | +  |    |    |    | +  |
 | grigoryan  | +  | 5  | 5         |  4      | +  | +  | +  | +  | +  | +  |
